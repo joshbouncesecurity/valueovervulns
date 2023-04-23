@@ -10,7 +10,7 @@ const Nav = () => {
       <Link to='/about-trainer' className='underline-with-animation'>
         About Trainer
       </Link>
-      <Link to='/where-to-attain' className='underline-with-animation'>
+      <Link to='/where-to-attend' className='underline-with-animation'>
         Where to Attain
       </Link>
     </div>
