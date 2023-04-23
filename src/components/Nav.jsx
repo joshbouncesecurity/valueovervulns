@@ -11,7 +11,7 @@ const Nav = () => {
         About Trainer
       </Link>
       <Link to='/where-to-attend' className='underline-with-animation'>
-        Where to Attain
+        Where to Attend
       </Link>
     </div>
   )
